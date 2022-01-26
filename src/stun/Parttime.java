@@ -9,7 +9,7 @@ package stun;
  *
  * @author college
  */
-public class Parttime {
+public class Parttime extend student{
 
     /**
      * @return the numoffCourses
